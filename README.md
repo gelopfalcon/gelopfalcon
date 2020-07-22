@@ -1,5 +1,13 @@
 ### Hi there 👋
+My name is Gerardo López Falcón, I'm from the beatiful country named Costa Rica. I'm a Senior Software Engineer | SRE | DevOps. Fan of web and cloud technologies. Cloud expert in [gdgpuravida](https://twitter.com/gdgpuravida) & Community Leader in DockerTico (https://twitter.com/DockerTico). :rocket:
 
+🔭 I’m currently working on migrating and innovating projects to cloud (Google Cloud and AWS). 
+
+📫 How to reach me: ...
+  - [Twitter](https://twitter.com/gelopfalcon)
+  - [Youtube](https://www.youtube.com/channel/UCypyV-geyQF6gfBJlhb1DVA?view_as=subscriber)
+
+🌱 I’m looking to collaborate on companies that want to migrate to the cloud carrying its business to another level.
 <!--
 **gelopfalcon/gelopfalcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
