@@ -4,7 +4,7 @@ My name is Gerardo López Falcón, I'm from the beatiful country named Costa Ric
 🔭 I’m currently working on migrating and innovating projects to cloud (Google Cloud and AWS). 
 
 
-🌱 I’m looking to collaborate on companies that want to migrate to the cloud carrying its business to another level. But my most motivation and passion is to help others, it is the reason why I learn things because I love teaching, I like thinking that I could improve other lives. Regularly I wrote blog pots and make videos in order to share my experiencies and knowloadge with others, I don't get any money for doing that, all is passion by teaching.
+🌱 I’m looking to collaborate on companies that want to migrate to the cloud carrying its business to another level. But my most motivation and passion is to help others, it is the reason why I learn things because I love teaching, I like thinking that I could improve other lives. Regularly I write blog posts and made videos in order to share my experiences and knowledge with others, I don't get any money for doing that, all is the passion by teaching.
 
 💬 Ask me about ...
   - Google Cloud
