@@ -6,6 +6,8 @@ My name is Gerardo López Falcón, I'm from the beatiful country named Costa Ric
 
 🌱 I’m looking to collaborate on companies that want to migrate to the cloud carrying its business to another level. But my most motivation and passion is to help others, it is the reason why I learn things because I love teaching, I like thinking that I could improve other lives. Regularly I write blog posts and made videos in order to share my experiences and knowledge with others, I don't get any money for doing that, all is the passion by teaching.
 
+![alt text](https://media.giphy.com/media/KEG5UtvXUD7WPIhhuy/giphy.gif)
+
 💬 Ask me about ...
   - Google Cloud
   - Kubernetes
@@ -18,6 +20,9 @@ My name is Gerardo López Falcón, I'm from the beatiful country named Costa Ric
 📫 How to reach me: ...
   - [Twitter](https://twitter.com/gelopfalcon)
   - [Youtube](https://www.youtube.com/channel/UCypyV-geyQF6gfBJlhb1DVA?view_as=subscriber)
+  - [DevTo](https://dev.to/gelopfalcon)
+  
+  ![alt text](  https://media.giphy.com/media/7OWuHbNytj2RAiXtaa/giphy.gif)
   
 <!--
 **gelopfalcon/gelopfalcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
