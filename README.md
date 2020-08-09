@@ -27,6 +27,11 @@ My name is Gerardo López Falcón, I'm from a beautiful country named Costa Rica
   
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anthos: Gestión de configuración centralizada](https://dev.to/gelopfalcon/anthos-gestion-de-configuracion-centralizada-16pa)
+- [Anthos, vistazo general](https://dev.to/gelopfalcon/anthos-vistazo-general-1me)
+- [Introducción Cloud Run (GCP)](https://dev.to/gelopfalcon/introduccion-cloud-run-gcp-4he1)
+- [Formas efectivas de administrar su estado de Terraform en GCP - Día # 2](https://dev.to/gelopfalcon/formas-efectivas-de-administrar-su-estado-de-terraform-dia-2-3k99)
+- [Kernel, init y servicios en Linux](https://dev.to/gelopfalcon/kernel-init-y-servicios-en-linux-405g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
