@@ -25,13 +25,13 @@ My name is Gerardo López Falcón, I'm from a beautiful country named Costa Rica
   ![alt text](  https://media.giphy.com/media/7OWuHbNytj2RAiXtaa/giphy.gif)
   
   
-### Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE::START -->
+<!-- YOUTUBE:END  -->
   
 <!--
 **gelopfalcon/gelopfalcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
