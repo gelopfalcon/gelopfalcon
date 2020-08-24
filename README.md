@@ -36,11 +36,11 @@ My name is Gerardo López Falcón, I'm from a beautiful country named Costa Rica
   
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Yes, you can pass the Google Cloud Associate Engineer exam](https://dev.to/gelopfalcon/yes-you-can-pass-the-google-cloud-associate-engineer-exam-e20)
 - [Anthos: Service mesh](https://dev.to/gelopfalcon/anthos-service-mesh-1lhi)
 - [Anthos: Gestión de configuración centralizada](https://dev.to/gelopfalcon/anthos-gestion-de-configuracion-centralizada-16pa)
 - [Anthos, vistazo general](https://dev.to/gelopfalcon/anthos-vistazo-general-1me)
 - [Introducción Cloud Run (GCP)](https://dev.to/gelopfalcon/introduccion-cloud-run-gcp-4he1)
-- [Formas efectivas de administrar su estado de Terraform en GCP - Día # 2](https://dev.to/gelopfalcon/formas-efectivas-de-administrar-su-estado-de-terraform-dia-2-3k99)
 <!-- BLOG-POST-LIST:END -->
 
   
