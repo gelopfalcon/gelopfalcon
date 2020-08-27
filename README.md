@@ -27,11 +27,11 @@ My name is Gerardo López Falcón, I'm from a beautiful country named Costa Rica
   
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Noche en la nube: Visual studio CodeSpaces + Azure Devops](https://www.youtube.com/watch?v=h70J0jf6RxY)
 - [Google Cloud Storage (SDK) Parte 4](https://www.youtube.com/watch?v=TCb-c3txi8s)
 - [Google Cloud Storage (SDK)  Parte 3](https://www.youtube.com/watch?v=UrNbuqKTFiU)
 - [Google Cloud storage (SDK) parte 2](https://www.youtube.com/watch?v=JGdQ-v0RYjk)
 - [Google Cloud Storage (SDK) Parte 1](https://www.youtube.com/watch?v=fpkhj60x0WA)
-- [Noche en la nube: Permisos en AWS e Introducción a Openshift](https://www.youtube.com/watch?v=f6Hf92qmEDY)
 <!-- YOUTUBE:END -->
   
 ### 📕 Latest Blog Posts
