@@ -1,5 +1,5 @@
 ### Hola Mundo 👋
-My name is Gerardo López Falcón, I'm from a beautiful country named Costa Rica. I'm a Senior Software Engineer | SRE | DevOps. Fan of web and cloud technologies. Google Cloud expert in [GDG Pura vida](https://twitter.com/gdgpuravida) & Community Leader in [Docker Costa Rica](https://twitter.com/DockerTico). :rocket:
+My name is Gerardo López Falcón, I'm from a beautiful country named Costa Rica. I'm a Google Developer Expert in GCP | Senior Software Engineer | SRE | DevOps. Fan of web and cloud technologies. Google Cloud expert in [GDG Pura vida](https://twitter.com/gdgpuravida) & Community Leader in [Docker Costa Rica](https://twitter.com/DockerTico). :rocket:
 
 🔭 I’m currently working on migrating and innovating projects to cloud (Google Cloud and AWS). 
 
