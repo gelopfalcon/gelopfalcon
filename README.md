@@ -36,11 +36,11 @@ My name is Gerardo López Falcón, I'm from a beautiful country named Costa Rica
   
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [App Django on serverless using Cloud Run - Part 2](https://dev.to/gelopfalcon/app-django-on-serverless-using-cloud-run-part-2-2i48)
 - [App Django on serverless using Cloud Run - Part 1](https://dev.to/gelopfalcon/app-django-on-serverless-using-cloud-run-part-1-30lj)
 - [Multiple environments in Terraform?  No worries, use workspaces](https://dev.to/gelopfalcon/multiple-environments-in-terraform-no-worries-use-workspaces-1004)
 - [Yes, you can pass the Google Cloud Associate Engineer exam](https://dev.to/gelopfalcon/yes-you-can-pass-the-google-cloud-associate-engineer-exam-e20)
 - [Anthos: Service mesh](https://dev.to/gelopfalcon/anthos-service-mesh-1lhi)
-- [Anthos: Gestión de configuración centralizada](https://dev.to/gelopfalcon/anthos-gestion-de-configuracion-centralizada-16pa)
 <!-- BLOG-POST-LIST:END -->
 
   
