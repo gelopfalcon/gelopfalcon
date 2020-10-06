@@ -27,11 +27,11 @@ My name is Gerardo López Falcón, I'm from a beautiful country named Costa Rica
   
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Certificación de GCP - Grupo de estudio](https://www.youtube.com/watch?v=yzqbWmDpOnM)
 - [Comparando servicios de GCP para "deployear" apps](https://www.youtube.com/watch?v=NIIWNimqDBw)
 - [Vistazo general de Cloud functions](https://www.youtube.com/watch?v=NlSnOWI_q2k)
 - [Noche la Nube: Google Cloud Storage y Cloud Run](https://www.youtube.com/watch?v=h4L5MkPgI4M)
 - [Noche en la nube: Visual studio CodeSpaces + Azure Devops](https://www.youtube.com/watch?v=h70J0jf6RxY)
-- [Google Cloud Storage (SDK) Parte 4](https://www.youtube.com/watch?v=TCb-c3txi8s)
 <!-- YOUTUBE:END -->
   
 ### 📕 Latest Blog Posts
