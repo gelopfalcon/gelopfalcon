@@ -27,11 +27,11 @@ My name is Gerardo López Falcón, I'm from a beautiful country named Costa Rica
   
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Intro to Agones: Scaling Multiplayer Game Servers with Kubernetes](https://www.youtube.com/watch?v=v8ZpH3UR29Y)
 - [El reto Geek con Kevin Blanco](https://www.youtube.com/watch?v=eVkVp-aCN_A)
 - [test](https://www.youtube.com/watch?v=NSDL1-PxEuw)
 - [El reto geek con Mariano Alvarez](https://www.youtube.com/watch?v=cqTr12absro)
 - [Certificación de GCP - Grupo de estudio](https://www.youtube.com/watch?v=yzqbWmDpOnM)
-- [Comparando servicios de GCP para "deployear" apps](https://www.youtube.com/watch?v=NIIWNimqDBw)
 <!-- YOUTUBE:END -->
   
 ### 📕 Latest Blog Posts
