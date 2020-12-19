@@ -27,11 +27,11 @@ My name is Gerardo López Falcón, I'm from a beautiful country named Costa Rica
   
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [K8s le dice "hasta la vista baby" a Docker](https://www.youtube.com/watch?v=J5i1n0YQLJw)
 - [Usar los verbos HTTP correctamente en un API REST](https://www.youtube.com/watch?v=R2vIIkdNs74)
 - [Intro to Agones: Scaling Multiplayer Game Servers with Kubernetes](https://www.youtube.com/watch?v=v8ZpH3UR29Y)
 - [Que rayos es un API REST?](https://www.youtube.com/watch?v=T3HU5fz7kog)
 - [Certificación de GCP - Grupo de estudio](https://www.youtube.com/watch?v=UGghmUaSOPM)
-- [Google Cloud Platform - Study Group](https://www.youtube.com/watch?v=FIxrEZaQ3Kg)
 <!-- YOUTUBE:END -->
   
 ### 📕 Latest Blog Posts
