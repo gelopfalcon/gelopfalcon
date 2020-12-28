@@ -36,11 +36,11 @@ My name is Gerardo López Falcón, I'm from a beautiful country named Costa Rica
   
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Virtual Environments](https://dev.to/gelopfalcon/python-virtual-environments-25gc)
 - [NGINX ModSecurity WAF](https://dev.to/gelopfalcon/nginx-modsecurity-waf-16cf)
 - [No basta ser "buen@" en lo que haces, necesitas soft skills también.](https://dev.to/gelopfalcon/no-basta-ser-buen-en-lo-que-haces-necesitas-soft-skills-tambien-34dg)
 - [Los 7 patrones de diseño de software más importantes](https://dev.to/gelopfalcon/los-7-patrones-de-diseno-de-software-mas-importantes-28l2)
 - [App Django on serverless using Cloud Run - Part 2](https://dev.to/gelopfalcon/app-django-on-serverless-using-cloud-run-part-2-2i48)
-- [App Django on serverless using Cloud Run - Part 1](https://dev.to/gelopfalcon/app-django-on-serverless-using-cloud-run-part-1-30lj)
 <!-- BLOG-POST-LIST:END -->
 
   
