@@ -27,11 +27,11 @@ My name is Gerardo López Falcón, I'm from a beautiful country named Costa Rica
   
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Introducción a PWA](https://www.youtube.com/watch?v=1WUqbSkCVQQ)
 - [SmartDev Intro](https://www.youtube.com/watch?v=otkraOAvKtk)
 - [K8s le dice "hasta la vista baby" a Docker](https://www.youtube.com/watch?v=J5i1n0YQLJw)
 - [Usar los verbos HTTP correctamente en un API REST](https://www.youtube.com/watch?v=R2vIIkdNs74)
 - [Intro to Agones: Scaling Multiplayer Game Servers with Kubernetes](https://www.youtube.com/watch?v=v8ZpH3UR29Y)
+- [Que rayos es un API REST?](https://www.youtube.com/watch?v=T3HU5fz7kog)
 <!-- YOUTUBE:END -->
   
 ### 📕 Latest Blog Posts
