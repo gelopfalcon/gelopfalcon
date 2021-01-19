@@ -27,7 +27,7 @@ My name is Gerardo López Falcón, I'm from a beautiful country named Costa Rica
   
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Soy nuevo en TI ¿Qué debería estudiar?](https://www.youtube.com/watch?v=8LHlvdl4WEM)
+- [Soy nuevo en TI ¿Por donde empiezo?](https://www.youtube.com/watch?v=8LHlvdl4WEM)
 - [Identificando proyectos/empresas de TI tóxicas](https://www.youtube.com/watch?v=-5rlLd1D5-c)
 - [Introducción a PWA](https://www.youtube.com/watch?v=1WUqbSkCVQQ)
 - [SmartDev Intro](https://www.youtube.com/watch?v=otkraOAvKtk)
