@@ -27,11 +27,11 @@ My name is Gerardo López Falcón, I'm from a beautiful country named Costa Rica
   
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [¿Backend con JS? Sí, NestJS](https://www.youtube.com/watch?v=M0fLuXaLscU)
 - [Soy nuevo en TI ¿Por donde empiezo?](https://www.youtube.com/watch?v=8LHlvdl4WEM)
 - [Identificando proyectos/empresas de TI tóxicas](https://www.youtube.com/watch?v=-5rlLd1D5-c)
 - [Introducción a PWA](https://www.youtube.com/watch?v=1WUqbSkCVQQ)
 - [SmartDev Intro](https://www.youtube.com/watch?v=otkraOAvKtk)
-- [K8s le dice "hasta la vista baby" a Docker](https://www.youtube.com/watch?v=J5i1n0YQLJw)
 <!-- YOUTUBE:END -->
   
 ### 📕 Latest Blog Posts
