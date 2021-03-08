@@ -36,11 +36,11 @@ My name is Gerardo López Falcón, I'm from a beautiful country named Costa Rica
   
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to be a great mentor](https://dev.to/gelopfalcon/how-to-be-a-great-mentor-28p8)
 - [Service worker and its self.skipWaiting() method](https://dev.to/gelopfalcon/service-worker-and-its-self-skipwaiting-44o5)
 - [7 tips for a Node.js developer](https://dev.to/gelopfalcon/7-tips-for-a-node-js-developer-3233)
 - [Python Virtual Environments](https://dev.to/gelopfalcon/python-virtual-environments-25gc)
 - [NGINX ModSecurity WAF](https://dev.to/gelopfalcon/nginx-modsecurity-waf-16cf)
-- [No basta ser "buen@" en lo que haces, necesitas soft skills también.](https://dev.to/gelopfalcon/no-basta-ser-buen-en-lo-que-haces-necesitas-soft-skills-tambien-34dg)
 <!-- BLOG-POST-LIST:END -->
 
   
