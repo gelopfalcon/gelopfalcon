@@ -27,11 +27,11 @@ My name is Gerardo López Falcón, I'm from a beautiful country named Costa Rica
   
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Fragments Android -Kotlin (Parte 2)](https://www.youtube.com/watch?v=Gb5QLhp0Txg)
 - [Fragments Android -  Kotlin (Parte1)](https://www.youtube.com/watch?v=bWS5SKq6wNQ)
 - [Reto geek: Alfredo Bonilla](https://www.youtube.com/watch?v=WY0b7bDAq5M)
 - [NestJS - Controllers - Parte1](https://www.youtube.com/watch?v=pAzSfyypU64)
 - [¿Backend con JS? Sí, NestJS](https://www.youtube.com/watch?v=M0fLuXaLscU)
-- [Soy nuevo en TI ¿Por donde empiezo?](https://www.youtube.com/watch?v=8LHlvdl4WEM)
 <!-- YOUTUBE:END -->
   
 ### 📕 Latest Blog Posts
