@@ -27,11 +27,11 @@ My name is Gerardo López Falcón, I'm from a beautiful country named Costa Rica
   
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Twelve Factor App - Codebase (1/12)](https://www.youtube.com/watch?v=GvcyTG5ihC8)
 - [Recyclerview + CardView Android](https://www.youtube.com/watch?v=YG0p5fCItlw)
 - [Safe args Android (Instalación) - Kotlin](https://www.youtube.com/watch?v=VAySc3s7kIA)
 - [Fragments Android -Kotlin (Parte 2)](https://www.youtube.com/watch?v=Gb5QLhp0Txg)
 - [Fragments Android -  Kotlin (Parte1)](https://www.youtube.com/watch?v=bWS5SKq6wNQ)
-- [Reto geek: Alfredo Bonilla](https://www.youtube.com/watch?v=WY0b7bDAq5M)
 <!-- YOUTUBE:END -->
   
 ### 📕 Latest Blog Posts
