@@ -27,11 +27,11 @@ My name is Gerardo López Falcón, I'm from a beautiful country named Costa Rica
   
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Twelve Factor: Backing services. 4/12](https://www.youtube.com/watch?v=AwLCQl2F84Y)
 - [Event-Driven design](https://www.youtube.com/watch?v=jr8GwBdhXt0)
 - [Twelve Factor - Configuraciones - 3/12](https://www.youtube.com/watch?v=qcImSn7LxBc)
 - [The Twelve Factor - 2/12 - Dependencias](https://www.youtube.com/watch?v=9q6XFGKxqGI)
 - [Twelve Factor App - Codebase (1/12)](https://www.youtube.com/watch?v=YUCZBpnKYE8)
-- [Twelve Factor App - Codebase (1/12)](https://www.youtube.com/watch?v=GvcyTG5ihC8)
 <!-- YOUTUBE:END -->
   
 ### 📕 Latest Blog Posts
