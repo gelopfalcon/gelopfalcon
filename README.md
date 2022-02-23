@@ -36,11 +36,11 @@ My name is Gerardo López Falcón, I'm from a beautiful country named Costa Rica
   
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Actualizar tokens en Auth0](https://dev.to/gelopfalcon/actualizar-tokens-en-auth0-1d07)
 - [Implementa Auth0 Tokens como un campeón](https://dev.to/gelopfalcon/implementa-auth0-tokens-como-un-campeon-2go5)
 - [Usar eventos para conectar contratos inteligentes con una aplicación web](https://dev.to/gelopfalcon/usar-eventos-para-conectar-contratos-inteligentes-con-una-aplicacion-web-35en)
 - [E-commerce App with ReactNative and Amplify - Part 1](https://dev.to/gelopfalcon/e-commerce-app-with-reactnative-and-amplify-part-1-18pb)
 - [Mi camino hacia la Web3](https://dev.to/gelopfalcon/mi-camino-hacia-la-web3-56il)
-- [How to Deal with Technical Debt: strategies and tips](https://dev.to/gelopfalcon/how-to-deal-with-technical-debt-strategies-and-tips-5blh)
 <!-- BLOG-POST-LIST:END -->
 
   
